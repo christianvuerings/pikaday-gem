@@ -17,7 +17,4 @@ Gem::Specification.new do |s|
   s.add_dependency "railties", [">= 3.1"]
 
   s.add_development_dependency "bundler", [">= 1.2.2"]
-  s.add_development_dependency "tzinfo"
-  s.add_development_dependency "nokogiri"
-  s.add_development_dependency "coveralls"
 end
