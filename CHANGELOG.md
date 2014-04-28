@@ -1,3 +1,8 @@
+## 1.2.0 (April 28, 2014)
+
+  - v1.2.0 of the Pikaday gem
+  - https://github.com/dbushell/Pikaday/blob/master/CHANGELOG.md#120---2014-01-28
+
 ## 1.1.0.0 (March 29, 2013)
 
   - v1.1.0 of the Pikaday gem (AMD support)
